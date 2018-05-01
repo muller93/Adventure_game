@@ -1,7 +1,6 @@
 {
   "name": "adventure",
   "version": "0.0.1",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,15 @@
   "license": "ISC",
   "dependencies": {
     "readline-sync": "^1.4.8"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muller93/Adventure_game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/muller93/Adventure_game/issues"
+  },
+  "homepage": "https://github.com/muller93/Adventure_game#readme",
+  "description": ""
 }

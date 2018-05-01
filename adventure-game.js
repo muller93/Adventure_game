@@ -44,7 +44,7 @@ function egyenes2 (player) {
 function bal2 (player) {
   console.log('');
   console.log('Ez az ösvény vissza vezetett az első választási helyre. Szedd össze magad, mert kezdheted előről.');
-  entry ();
+  entry();
 }
 // bal/jobb/
 function jobb2 (player) {
@@ -57,7 +57,7 @@ function jobb2 (player) {
   } else if (way === 1) {
     bal3(player);
   } else {
-    end ();
+    end();
   }
 }
 // bal/jobb/egyenes/befejezve
